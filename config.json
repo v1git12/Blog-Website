@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/vinayakblog",
+    "prod_uri":"mysql://root:@localhost/vinayakblog",
+    "fb_url":"https://facebook.com/codingthunder",
+    "tw_url":"https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blog_name": "vinayakblog",
+    "tag_line": "Heaven for programmers",
+    "gmail-user":"mv1nayak231@gmail.com",
+    "gmail-password":"mvmmct@241",
+    "about_text":"HI i am vinayak",
+    "no_of_posts": 5,
+    "admin_user": "vinayak",
+    "admin_password": "1234"
+  }
+}
+
